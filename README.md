@@ -3,14 +3,16 @@
 Refreshing plan:
 
 - [x] Simple Redux Toolkit integration
-- [] Save and get data from local storage
-- [] Unit test with react-testing-library
+- [ ] Save and get data from local storage
+- [ ] Unit test with react-testing-library
+- [ ] Try GitHub actions
+- [ ] Deploy to Cloudflare Pages (if all fail, Vercel)
 
 Improvement:
 
-- [] Simple direct save to PostgresDB using server action
-- [] New DB with login journey
-- [] Try out StyleX lib
+- [ ] Simple direct save to PostgresDB using server action
+- [ ] New DB with login journey
+- [ ] Try out StyleX lib
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
